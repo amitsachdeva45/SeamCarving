@@ -5,4 +5,4 @@ in an image and automatically removes seams to reduce image size or inserts seam
 Seam carving also allows manually defining areas in which pixels may not be modified,
 and features the ability to remove whole objects from photographs.
 
-Sc.cpp file Contains Algorithm to c
+
